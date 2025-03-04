@@ -1,0 +1,22 @@
+body {
+    background-color: lightgoldenrodyellow;
+    color: black;
+  }
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+  font-family: "Brush Script MT", cursive;
+}
+
+h2 {
+  font-family: "Monaco", Monospace;
+  font-size: 20px;
+  font-weight: bold;
+  padding-left: 10px;
+}
+
+.listtext {
+  font-family: "Monaco", Monospace;
+  padding-left: 40px;
+}
